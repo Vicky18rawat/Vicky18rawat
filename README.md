@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vikram Singh Rawat
 - 👀 I’m interested in Python programming
-- 🌱 I’m currently learning Python and Django
+- 🌱 I’m working in Python backend development
 - 💞️ I’m looking to collaborate on Python projects
 - 📫 vsrawat12@ymail.com
 
